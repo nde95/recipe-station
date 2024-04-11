@@ -9,6 +9,7 @@ User accounts that are not myself are planned in the future.
 - React
 - Typescript
 - Vite
+- TailwindCSS/PostCSS
 - React-router-dom
 
 ## How to run
